@@ -1,5 +1,7 @@
-# Employee_Managment
-** Simple Project On JSP **
+# Employee and Department Managment Using JSP
+
+## This is the demonstration of a simple jsp project which uses mysql as a database and perform **CRUD** operations and is built in **MVC** architecture  
+
 ## Main Page 
 
 ![Main Page](screenshots/main_page.png)
